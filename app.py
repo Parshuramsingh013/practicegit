@@ -2,9 +2,9 @@ def addition(a,b,c):
 
     return a+b
 
-def substraction(a,b,c):
+def substraction(a,b,e):
 
-    return a-b-c
+    return a-b-e
 
 def devision(a,b):
 
